@@ -6,4 +6,10 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Mathematics for computer applications
 - Computer Architecture and Organization
 
+## Semester - 2 (Subjects)
+- Statistics and Probability
+- Database Management System
+- Data Structure
+- Object Oriented Programming with C++
+
 
