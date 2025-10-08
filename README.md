@@ -3,6 +3,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 
 ## Repo Structure
 ###### |-- README
+###### |-- Syllabus Book
 
 ## Semester - 1 (Subjects)
 - Introduction to C Programming
