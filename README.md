@@ -15,5 +15,10 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Data Structure
 - Object Oriented Programming with C++
 
+## Semester - 3 (Subjects)
+- Computer Network
+- Core Java
+- Digital Marketing
+
 ## Authors:
 - Mo Fahim Raj
