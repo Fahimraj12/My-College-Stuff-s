@@ -8,6 +8,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Introduction to C Programming
 - Mathematics for computer applications
 - Computer Architecture and Organization
+- Web Application and Design - I
 
 ## Semester - 2 (Subjects)
 - Statistics and Probability
@@ -19,6 +20,8 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Computer Network
 - Core Java
 - Digital Marketing
+- Web Application and Design - II
+- Software Lab
 
 ## Authors:
 - Mo Fahim Raj
