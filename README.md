@@ -24,5 +24,9 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Web Application and Design - II
 - Software Lab
 
+## Semester - 4 (Subjects)
+- Python Programming
+- Mobile App Development
+
 ## Authors:
 - Mo Fahim Raj
