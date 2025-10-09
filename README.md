@@ -1,5 +1,6 @@
 # My-College-Stuff-s
 In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, end sem exam papers 
+And Google Drive link: 
 
 ## Repo Structure
 ###### |-- README
@@ -27,6 +28,17 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 ## Semester - 4 (Subjects)
 - Python Programming
 - Mobile App Development
+- Operating System
+- Programming with .net
+- Cryptography and Network Security
+
+## Semester - 5 (Subjects)
+- Data Science
+- BlockChain Technology
+- Software Engineering
+- Major/Minor Project
+- Corporate, Grooming and Etiquette
+- Artifical Intelligence: Concepts and Techniques(NPTEL)
 
 ## Authors:
 - Mo Fahim Raj
