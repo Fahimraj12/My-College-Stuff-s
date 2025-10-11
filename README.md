@@ -5,6 +5,8 @@ And Google Drive link:
 ## Repo Structure
 ###### |-- README
 ###### |-- Syllabus Book
+###### |-- Sem - 1
+######     |-- Introduction to C programming 
 
 ## Semester - 1 (Subjects)
 - Introduction to C Programming
