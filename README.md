@@ -42,5 +42,7 @@ And Google Drive link:
 - Corporate, Grooming and Etiquette
 - Artifical Intelligence: Concepts and Techniques(NPTEL)
 
+## Semester - 6 
+
 ## Authors:
 - Mo Fahim Raj
