@@ -42,6 +42,9 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Artifical Intelligence: Concepts and Techniques(NPTEL)
 
 ## Semester - 6 
+- 
+### 👨‍💻 Author
+- [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
+- 📧 [mofahimraj@gmail.com]
+- 🔗 [GitHub Profile](https://github.com/Fahimraj12)
 
-## Authors:
-- Mo Fahim Raj
