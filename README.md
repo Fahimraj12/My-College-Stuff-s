@@ -2,11 +2,11 @@
 In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, end sem exam papers  And Google Drive link: 
 
 ## Repo Structure
-###### |-- README
-###### |-- Syllabus Book
-###### |-- Sem - 1
-######     |-- Introduction to C programming 
-
+~~~
+|-- README
+|-- Syllabus Book
+|-- Data Science(SSCA3021)
+~~~
 ## Semester - 1 (Subjects)
 - Introduction to C Programming
 - Mathematics for computer applications
