@@ -34,11 +34,11 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Cryptography and Network Security
 
 ## Semester - 5 (Subjects)
-- Data Science
-- BlockChain Technology
-- Software Engineering
-- Major/Minor Project
-- Corporate, Grooming and Etiquette
+- Data Science (SSCA3021)
+- BlockChain Technology (SSCS3021)
+- Software Engineering (SSCS3010)
+- Major/Minor Project (SSCS3090)
+- Corporate, Grooming and Etiquette(TNPC3010)
 - Mindfullness and Well Being
 - Artifical Intelligence: Concepts and Techniques(NPTEL)
 
