@@ -8,7 +8,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 |-- Data Science(SSCA3021)
 ~~~
 ## Semester - 1 (Subjects)
-- Introduction to C Programming
+- Introduction to C Programming(SSCS1010)
 - Mathematics for computer applications
 - Computer Architecture and Organization
 - Web Application and Design - I
@@ -39,6 +39,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Software Engineering
 - Major/Minor Project
 - Corporate, Grooming and Etiquette
+- Mindfullness and Well Being
 - Artifical Intelligence: Concepts and Techniques(NPTEL)
 
 ### 👨‍💻 Author
