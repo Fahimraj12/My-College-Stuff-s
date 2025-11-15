@@ -40,7 +40,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Major/Minor Project (SSCS3090)
 - Corporate, Grooming and Etiquette (TNPC3010)
 - Mindfullness and Well Being (CLSC2140)
-- Artifical Intelligence: Concepts and Techniques(NPTEL)
+- Artifical Intelligence: Concepts and Techniques(NPTEL) (noc25_cs159)
 
 ### 👨‍💻 Author
 - [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
