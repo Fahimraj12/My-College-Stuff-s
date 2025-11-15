@@ -38,8 +38,8 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - BlockChain Technology (SSCS3021)
 - Software Engineering (SSCS3010)
 - Major/Minor Project (SSCS3090)
-- Corporate, Grooming and Etiquette(TNPC3010)
-- Mindfullness and Well Being
+- Corporate, Grooming and Etiquette (TNPC3010)
+- Mindfullness and Well Being (CLSC2140)
 - Artifical Intelligence: Concepts and Techniques(NPTEL)
 
 ### 👨‍💻 Author
