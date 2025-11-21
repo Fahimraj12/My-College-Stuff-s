@@ -11,7 +11,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 ~~~
 ## Semester - 1 (Subjects)
 - Introduction to C Programming(SSCS1010)
-- Mathematics for computer applications
+- Mathematics for computer applications (SESH1040)
 - Computer Architecture and Organization
 - Web Application and Design - I
 
