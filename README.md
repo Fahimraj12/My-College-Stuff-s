@@ -4,6 +4,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 ## Repo Structure
 ~~~
 |-- Blockchain Technology (SSCS3021)
+|-- Corporate Grooming and Etiquette(TNPC3010)
 |-- Data Science (SSCA3021)
 |-- Software Engineering (SSCS3010)
 |-- AY23-26 Syllabus Book BSC-IT
