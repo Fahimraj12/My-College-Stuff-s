@@ -6,6 +6,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 |-- Blockchain Technology (SSCS3021)
 |-- Corporate Grooming and Etiquette(TNPC3010)
 |-- Data Science (SSCA3021)
+|-- Nptel- Artificial Intelligence 
 |-- Software Engineering (SSCS3010)
 |-- AY23-26 Syllabus Book BSC-IT
 |-- README
