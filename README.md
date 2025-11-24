@@ -13,11 +13,11 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 ## Semester - 1 (Subjects)
 - Introduction to C Programming(SSCS1010)
 - Mathematics for computer applications (SESH1040)
-- Computer Architecture and Organization
-- Web Application and Design - I
+- Computer Architecture and Organization (SSCS1020)
+- Web Application and Design - I (SSCA1020)
 
 ## Semester - 2 (Subjects)
-- Statistics and Probability
+- Statistics and Probability (SESH2040)
 - Database Management System
 - Data Structure
 - Object Oriented Programming with C++
