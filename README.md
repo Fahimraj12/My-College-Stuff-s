@@ -31,7 +31,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Software Lab
 
 ## Semester - 4 (Subjects)
-- Python Programming
+- Python Programming (SSCS)
 - Mobile App Development
 - Operating System
 - Programming with .net
