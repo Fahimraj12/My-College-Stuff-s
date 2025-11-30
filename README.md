@@ -7,6 +7,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 |-- Corporate Grooming and Etiquette(TNPC3010)
 |-- Data Science (SSCA3021)
 |-- Nptel-Artificial Intelligence(NOC-CS159)
+    |-- Weekwise Summary
 |-- Software Engineering (SSCS3010)
 |-- AY23-26 Syllabus Book BSC-IT
 |-- README
