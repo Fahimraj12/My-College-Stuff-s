@@ -5,8 +5,8 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 ~~~
 |-- Blockchain Technology (SSCS3021)
     |-- imp questions
-    |-- practicals
     |-- ppt
+    |-- practicals pdf
 |-- Corporate Grooming and Etiquette(TNPC3010)
 |-- Data Science (SSCA3021)
 |-- Nptel-Artificial Intelligence(NOC-CS159)
