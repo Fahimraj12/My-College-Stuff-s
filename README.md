@@ -35,7 +35,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Core Java (SSCA2022)
 - Digital Marketing (SSCS
 - Web Application and Design - II
-- Software Lab (SSCS20)
+- Software Lab (SSCS2030)
 
 ## Semester - 4 (Subjects)
 - Python Programming (SSCS)
