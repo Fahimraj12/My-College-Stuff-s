@@ -34,7 +34,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Computer Network (SSCS2010)
 - Core Java (SSCA2022)
 - Digital Marketing (SSCS)
-- Web Application and Design - II()
+- Web Application and Design - II(SSCA)
 - Software Lab (SSCS2030)
 
 ## Semester - 4 (Subjects)
