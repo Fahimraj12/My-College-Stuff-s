@@ -53,7 +53,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Mindfullness and Well Being (CLSC2140)
 - Artifical Intelligence: Concepts and Techniques(NPTEL) (noc25_cs159)
 
-## Semester - 6
+## Semester - 6 (Subjects)
 
 ### 👨‍💻 Author
 - [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
