@@ -15,7 +15,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
     |-- NOTES PPT
     |-- Tutorials
     |-- External Exam of SE
-|-- Software Lab
+|-- Software Lab(SSCS2020)
 |-- AY23-26 Syllabus Book BSC-IT
 |-- README
 ~~~
