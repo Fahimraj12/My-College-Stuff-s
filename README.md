@@ -40,7 +40,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 ## Semester - 4 (Subjects)
 - Python Programming (SSCS)
 - Mobile App Development (SSCA)
-- Operating System ()
+- Operating System (SSCS)
 - Programming with .net
 - Cryptography and Network Security
 
