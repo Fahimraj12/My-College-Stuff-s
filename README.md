@@ -56,7 +56,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 
 ## Semester - 6 (Subjects)
 - Project/Training
-- Online Courses
+- Online Course
 ### 👨‍💻 Author
 - [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
 - 📧 [mofahimraj@gmail.com]
