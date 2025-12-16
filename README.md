@@ -52,7 +52,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Major/Minor Project (SSCS3090)
 - Corporate, Grooming and Etiquette (TNPC3010)
 - Mindfullness and Well Being (CLSC2140)
-- Artifical Intelligence: Concepts and Techniques(NPTEL) (noc25_cs159)
+- Artifical Intelligence: Concepts and Techniques(NPTEL) (NOC25_CS159)
 
 ## Semester - 6 (Subjects)
 - Project/Training
