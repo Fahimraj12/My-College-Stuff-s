@@ -27,7 +27,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 
 ## Semester - 2 (Subjects)
 - Statistics and Probability (SESH2040)
-- Database Management System()
+- Database Management System ()
 - Data Structure (SSCS20)
 - Object Oriented Programming with C++(SSCS)
 
