@@ -3,7 +3,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 
 ## Repo Structure
 ~~~
-|-- Blockchain Technology (SSCS3021)
+|-- Blockchain Technology(SSCS3021)
     |-- imp questions
     |-- ppt
     |-- practicals pdf
