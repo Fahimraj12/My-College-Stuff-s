@@ -43,7 +43,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Mobile App Development (SSCA)
 - Operating System (SSCS)
 - Programming with .net (SSCS)
-- Cryptography and Network Security
+- Cryptography and Network Security(SSCS)
 
 ## Semester - 5 (Subjects)
 - Data Science (SSCA3021)
