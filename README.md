@@ -29,7 +29,7 @@ In these repo I have uploaded an all my college notes, practical-pdfs, mid-sem, 
 - Statistics and Probability (SESH2040)
 - Database Management System ()
 - Data Structure (SSCS20)
-- Object Oriented Programming with C++(SSCS)
+- Object Oriented Programming with C++(SSCS20)
 
 ## Semester - 3 (Subjects)
 - Computer Network (SSCS2010)
