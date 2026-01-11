@@ -37,7 +37,7 @@
 - Computer Network (SSCS2010)
 - Core Java (SSCA2022)
 - Digital Marketing (SSCS20)
-- Web Application and Design - II(SSCA)
+- Web Application and Design - II(SSCA20)
 - Software Lab (SSCS2030)
 
 ## Semester - 4 (Subjects)
