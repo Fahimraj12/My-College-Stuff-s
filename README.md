@@ -41,7 +41,7 @@
 - Software Lab (SSCS2030)
 
 ## Semester - 4 (Subjects)
-- Python Programming (SSCS)
+- Python Programming (SSCS20)
 - Mobile App Development (SSCA)
 - Operating System (SSCS)
 - Programming with .net (SSCS)
