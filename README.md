@@ -36,7 +36,7 @@
 ## Semester - 3 (Subjects)
 - Computer Network (SSCS2010)
 - Core Java (SSCA2022)
-- Digital Marketing (SSCS)
+- Digital Marketing (SSCS20)
 - Web Application and Design - II(SSCA)
 - Software Lab (SSCS2030)
 
