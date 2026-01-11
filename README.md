@@ -45,7 +45,7 @@
 - Mobile App Development (SSCA20)
 - Operating System (SSCS20)
 - Programming with .net (SSCS20)
-- Cryptography and Network Security(SSCS)
+- Cryptography and Network Security(SSCS20)
 
 ## Semester - 5 (Subjects)
 - Data Science (SSCA3021)
