@@ -43,7 +43,7 @@
 ## Semester - 4 (Subjects)
 - Python Programming (SSCS20)
 - Mobile App Development (SSCA20)
-- Operating System (SSCS)
+- Operating System (SSCS20)
 - Programming with .net (SSCS)
 - Cryptography and Network Security(SSCS)
 
