@@ -57,7 +57,7 @@
 - Artifical Intelligence: Concepts and Techniques(NPTEL) (NOC25_CS159)
 
 ## Semester - 6 (Subjects)
-- Cyberspace Awareness(CL)
+- Cyberspace Awareness(CLSC)
 - Project/Training (SSIT)
 - Online Course (SSIT)
 
