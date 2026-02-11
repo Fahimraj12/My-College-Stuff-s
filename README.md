@@ -58,7 +58,7 @@
 
 ## Semester - 6 (Subjects)
 - Cyber Space Awareness(CLSC2170)
-- Project/Training (SSIT
+- Project/Training (SSIT)
 - Online Course (SSIT)
 
 ### 👨‍💻 Author
