@@ -20,6 +20,7 @@
 |-- Software Lab(SSCS2030)
 |-- AY23-26 Syllabus Book BSC-IT
 |-- README
+
 ~~~
 ## Semester - 1 (Subjects)
 - Introduction to C Programming(SSCS1010)
