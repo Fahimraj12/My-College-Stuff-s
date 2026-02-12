@@ -60,7 +60,7 @@
 
 ## Semester - 6 (Subjects)
 - Cyber Space Awareness(CLSC2170)
-- Project/Training - Internship (SS)
+- Project/Training - Internship (SSCS)
 - Online Course (SSIT)
 
 ### 👨‍💻 Author
