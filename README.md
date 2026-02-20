@@ -62,7 +62,7 @@
 ## Semester - 6 (Subjects)
 - Cyber Space Awareness(CLSC2170)
 - Project/Training - Internship (SSCS21)
-- Online Course (SSIT)
+- Online Course (SSI T)
 
 ### 👨‍💻 Author
 - [Mo Fahim Raj](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
