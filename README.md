@@ -24,7 +24,7 @@
 |-- README
 
 ~~~
-## Semester - 1 (Subjects)
+## Semester - 1 (Subjects):
 - Introduction to C Programming(SSCS1010)
 - Mathematics for computer applications (SESH1040)
 - Computer Architecture and Organization (SSCS1020)
