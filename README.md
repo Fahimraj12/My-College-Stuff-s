@@ -28,7 +28,7 @@
 
 ## Semester - 2 (Subjects):
 - Statistics and Probability (SESH2040)
-- Database Management System 
+- Database Management System ()
 - Data Structure (SSCS20)
 - Object Oriented Programming with C++(SSCS20)
 
