@@ -32,7 +32,7 @@
 - Data Structure (SSCS20)
 - Object Oriented Programming with C++(SSCS20)
 
-## Semester - 3 (Subjects)
+## Semester - 3 (Subjects):
 - Computer Network (SSCS2010)
 - Core Java (SSCA2022)
 - Digital Marketing (SSCS20)
