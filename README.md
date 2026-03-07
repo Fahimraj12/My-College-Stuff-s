@@ -39,7 +39,7 @@
 - Web Application and Design - II(SSCA20)
 - Software Lab (SSCS2030)
 
-## Semester - 4 (Subjects)
+## Semester - 4 (Subjects):
 - Python Programming (SSCS20)
 - Mobile App Development (SSCA20)
 - Operating System (SSCS20)
