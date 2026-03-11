@@ -54,7 +54,6 @@
 - Corporate, Grooming and Etiquette (TNPC3010)
 - Mindfullness and Well Being (CLSC2140)
 - Artifical Intelligence: Concepts and Techniques(NPTEL) (NOC25_CS159)
-
 ## Semester - 6 (Subjects):
 - Cyber Space Awareness(CLSC2170)
 - Project/Training - Internship (SSCS21)
