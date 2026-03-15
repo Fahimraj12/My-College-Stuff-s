@@ -4,7 +4,7 @@
 
 ## Repo Structure:
 ~~~
-|-- Cyberspace Awareness(CLSC2170)s
+|-- Cyberspace Awareness(CLSC2170)
 |-- Blockchain Technology(SSCS3021)
     |-- imp questions
     |-- ppt
