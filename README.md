@@ -13,7 +13,7 @@
 |-- Data Science(SSCA3021)
 |-- Nptel-Artificial Intelligence(NOC-CS159)
     |-- Weekwise Summary
-|-- Software Engineering (SSCS3010)
+|-- Software Engineering(SSCS3010)
     |-- NOTES PPT
     |-- Tutorials
     |-- External Exam of SE
