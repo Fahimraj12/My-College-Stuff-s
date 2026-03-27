@@ -28,7 +28,7 @@
 - Web Application and Design - I(SSCA1020)
 
 ## Semester - 2 (Subjects):
-- Statistics and Probability (SESH2040)
+- Statistics and Probability(SESH2040)
 - Database Management System (SSCA)
 - Data Structure (SSCS20)
 - Object Oriented Programming with C++(SSCS20)
