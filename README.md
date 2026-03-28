@@ -49,7 +49,7 @@
 
 ## Semester - 5 (Subjects):
 - Data Science (SSCA3021)
-- BlockChain Technology (SSCS3021)
+- BlockChain Technology(SSCS3021)
 - Software Engineering (SSCS3010)
 - Major/Minor Project / Summer Internship(SSCS3090)
 - Corporate, Grooming and Etiquette (TNPC3010)
