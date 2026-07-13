@@ -1,2 +1,2 @@
-# SEMESTER - 7 ()
+# SEMESTER - 7 (BSC)
 - 
