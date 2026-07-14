@@ -1,2 +1,2 @@
-# SEMESTER - 7 (BSC - IT)
+# SEMESTER - 7 (B.SC - IT)
 - 
