@@ -1,1 +1,1 @@
-# SEMESTER - 7 (B.SC - IT)H
+# SEMESTER - 7 (B.SC - IT)HO
