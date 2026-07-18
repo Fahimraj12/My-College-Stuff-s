@@ -1,1 +1,1 @@
-# SEMESTER - 7 (B.SC - IT)HONS
+# SEMESTER - 7 (B.SC - IT)HONS.
